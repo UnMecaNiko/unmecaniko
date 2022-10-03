@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">I'm always learning</h3>
+<h3 align="center">¡I'm always learning!</h3>
 
-<p>I have an inexhaustible intellectual curiosity</p>
+<p>I have an inexhaustible intellectual curiosity.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unmecaniko&label=Profile%20views&color=0e75b6&style=flat" alt="unmecaniko" /> </p>
 
