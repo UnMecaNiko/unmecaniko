@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">¡I'm always learning!</h3>
 
-Mechatronics Engineering | Junior web developer | Web3
+<h3>Mechatronics Engineering | Junior web developer | Web3 </h3>
 
 Ingeniero mecatrónico en formación con conocimientos en programación de microcontroladores, python, javaScript, C++, Matlab. Como también en la áreas de electrónica, IOT, Linux, robótica, mecánica, automatización de procesos. 
+
 Nivel de inglés medio - avanzado. 
+
 Soy un completo apasionado por el aprendizaje, tengo una curiosidad intelectual inagotable. Me interesa la inteligencia artificial, realidad virtual y la automatización industrial. He trabajado como mentor en la universidad donde actualmente me formo, disfruto compartiendo lo que aprendo. Busco constantemente ampliar mi circulo profesional.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unmecaniko&label=Profile%20views&color=0e75b6&style=flat" alt="unmecaniko" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/unmecaniko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unmecaniko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/unmecaniko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unmecaniko" height="30" width="40" /></a>
 <a href="https://instagram.com/unmecaniko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unmecaniko" height="30" width="40" /></a>
+<a href="https://twitter.com/unmecaniko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unmecaniko" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCozIelgoLNNb19ar3XMR-1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="un mecaniko" height="30" width="40" /></a>
 </p>
 
