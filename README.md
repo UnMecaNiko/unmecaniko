@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">¡I'm always learning!</h3>
 
-<p>I have an inexhaustible intellectual curiosity.</p>
+Mechatronics Engineering | Junior web developer | Web3
+
+Ingeniero mecatrónico en formación con conocimientos en programación de microcontroladores, python, javaScript, C++, Matlab. Como también en la áreas de electrónica, IOT, Linux, robótica, mecánica, automatización de procesos. 
+Nivel de inglés medio - avanzado. 
+Soy un completo apasionado por el aprendizaje, tengo una curiosidad intelectual inagotable. Me interesa la inteligencia artificial, realidad virtual y la automatización industrial. He trabajado como mentor en la universidad donde actualmente me formo, disfruto compartiendo lo que aprendo. Busco constantemente ampliar mi circulo profesional.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unmecaniko&label=Profile%20views&color=0e75b6&style=flat" alt="unmecaniko" /> </p>
 
