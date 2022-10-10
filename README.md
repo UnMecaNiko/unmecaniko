@@ -7,7 +7,7 @@ Ingeniero mecatrónico en formación con conocimientos en programación de micro
 
 Nivel de inglés medio - avanzado. 
 
-Soy un completo apasionado por el aprendizaje, tengo una curiosidad intelectual inagotable. Me interesa la inteligencia artificial, realidad virtual y la automatización industrial. He trabajado como mentor en la universidad donde actualmente me formo, disfruto compartiendo lo que aprendo. Busco constantemente ampliar mi circulo profesional.
+Soy un completo apasionado por el aprendizaje, tengo una curiosidad intelectual inagotable. Me interesa la inteligencia artificial, realidad virtual y la automatización industrial. He trabajado como mentor en la universidad donde actualmente me formo, disfruto compartiendo mis conocimientos. Busco constantemente ampliar mi circulo profesional.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unmecaniko&label=Profile%20views&color=0e75b6&style=flat" alt="unmecaniko" /> </p>
 
