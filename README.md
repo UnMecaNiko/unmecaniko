@@ -12,6 +12,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unmecaniko&label=Profile%20views&color=0e75b6&style=flat" alt="unmecaniko" /> </p>
 
+<h3 align="left">About me:</h3>
 Ingeniero mecatrónico en formación con conocimientos en programación de microcontroladores, python, javaScript, C++, Matlab. Como también en la áreas de electrónica, IOT, Linux, robótica, mecánica, automatización de procesos. 
 
 Nivel de inglés medio - avanzado. 
