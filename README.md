@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">¡I'm always learning!</h3>
-
-<h3>Mechatronics Engineering | Junior web developer | Web3 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,6 +7,12 @@
 <a href="https://www.youtube.com/channel/UCozIelgoLNNb19ar3XMR-1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="un mecaniko" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unmecaniko&label=Profile%20views&color=0e75b6&style=flat" alt="unmecaniko" /> </p>
+
+
+<h1 align="center">Hi 👋, I'm Nicolas</h1>
+<h3 align="center">¡I'm always learning!</h3>
+
+<h3>Mechatronics Engineering | Junior web developer | Web3 </h3>
 
 <h3 align="left">About me:</h3>
 Ingeniero mecatrónico en formación con conocimientos en programación de microcontroladores, python, javaScript, C++, Matlab. Como también en la áreas de electrónica, IOT, Linux, robótica, mecánica, automatización de procesos. 
