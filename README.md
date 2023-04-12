@@ -12,10 +12,10 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">¡I'm always learning!</h3>
 
-<h3>Mechatronics Engineering | Junior web developer | Web3 </h3>
+<h3>Mechatronic Engineer | Web developer | AI Engineer </h3>
 
 <h3 align="left">About me:</h3>
-Ingeniero mecatrónico con dominio en las áreas de robótica, programación, inteligencia artificial, sensórica, Linux, microcontroladores, electrónica, IOT, mecánica, procesamiento de imágenes y similares.
+Dominio en las áreas de robótica, programación, inteligencia artificial, sensórica, Linux, microcontroladores, electrónica, IOT, mecánica, procesamiento de imágenes y similares.
 
 Herramientas: Matlab, Simulink, Unity, Solid Works, Proteus, ROS.
 
